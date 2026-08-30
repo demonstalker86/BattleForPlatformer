@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0a86a4d5291598c4ea507834e72cc77b
+guid: 62f186ca817268945b5019ca7e2d5dcd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8985310896370868311
-    second: HeroKnight_13_0
+      213: 6786163458186212338
+    second: HeroKnight_15_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HeroKnight_13_0
+      name: HeroKnight_15_0
       rect:
         serializedVersion: 2
         x: 16
         y: 1
-        width: 46
-        height: 41
+        width: 47
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750e1ae67ac32bc70800000000000000
-      internalID: 8985310896370868311
+      spriteID: 2f3fce8e5bb4d2e50800000000000000
+      internalID: 6786163458186212338
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HeroKnight_13_0: 8985310896370868311
+      HeroKnight_15_0: 6786163458186212338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
