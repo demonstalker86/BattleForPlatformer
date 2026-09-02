@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 73a709a12850ca14bb79f949910bc4ae
+guid: a0431eb2a17d58c439da0ac0d71efc59
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8939702301370068571
-    second: LightBandit_3_0
+      213: 2311699175146870138
+    second: LightBandit_15_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LightBandit_3_0
+      name: LightBandit_15_0
       rect:
         serializedVersion: 2
-        x: 13
+        x: 6
         y: 1
-        width: 28
-        height: 38
+        width: 33
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5ea7e6e0e3301c70800000000000000
-      internalID: 8939702301370068571
+      spriteID: a755132e62ec41020800000000000000
+      internalID: 2311699175146870138
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LightBandit_3_0: 8939702301370068571
+      LightBandit_15_0: 2311699175146870138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
